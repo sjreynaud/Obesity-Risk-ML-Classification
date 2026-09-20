@@ -20,9 +20,9 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
 ├── **[README.md]**
 
 ├── **[data]**
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
+   ── train.csv
+   ── test.csv
+   ── sample_submission.csv
 
 ├── **[notebooks]**
 │   ├── 01_exploratory_analysis.ipynb
