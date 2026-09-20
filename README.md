@@ -59,27 +59,7 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
     ── confusion_matrix_svm.png
     ── feature_distributions.png
 
-├── README.md
-
-Code
-
-├── data/
-│   ├── train.csv
-│   ├── test.csv
-│   ├── sample_submission.csv
-│
-
-├── notebooks/
-│   ├── Assignment5_ObesityRisk.ipynb
-
-│
-├── submissions/
-│   ├── submission_logreg.csv
-│   ├── submission_svm.csv
-│   ├── submission_qda.csv
-│   ├── submission_nb.csv
-│
-├── README.md
+├── **README.md**
 
 
 **Methods**
