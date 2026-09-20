@@ -13,17 +13,18 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
 
 **Repository Structure**
 
-Code
-ObesityRisk-ML-Classification/
+**Code**
+
+**ObesityRisk-ML-Classification**
 │
-├── [README.md](ca://s?q=Expand_README_structure)
-│
-├── [data](ca://s?q=Explain_data_folder_structure)/
+├── **[README.md]**
+
+├── **[data]**
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
-│
-├── [notebooks](ca://s?q=Explain_notebooks_folder_structure)/
+
+├── **[notebooks]**
 │   ├── 01_exploratory_analysis.ipynb
 │   ├── 02_logistic_regression.ipynb
 │   ├── 03_svm_model.ipynb
