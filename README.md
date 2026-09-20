@@ -14,6 +14,54 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
 **Repository Structure**
 
 Code
+ObesityRisk-ML-Classification/
+│
+├── [README.md](ca://s?q=Expand_README_structure)
+│
+├── [data](ca://s?q=Explain_data_folder_structure)/
+│   ├── train.csv
+│   ├── test.csv
+│   └── sample_submission.csv
+│
+├── [notebooks](ca://s?q=Explain_notebooks_folder_structure)/
+│   ├── 01_exploratory_analysis.ipynb
+│   ├── 02_logistic_regression.ipynb
+│   ├── 03_svm_model.ipynb
+│   ├── 04_lda_qda.ipynb
+│   └── 05_naive_bayes.ipynb
+│
+├── [models](ca://s?q=Explain_models_folder_structure)/
+│   ├── logistic_regression_pipeline.pkl
+│   ├── svm_pipeline.pkl
+│   ├── lda_model.pkl
+│   ├── qda_model.pkl
+│   └── naive_bayes_model.pkl
+│
+├── [submissions](ca://s?q=Explain_submissions_folder_structure)/
+│   ├── submission_logreg.csv
+│   ├── submission_svm.csv
+│   ├── submission_lda.csv
+│   ├── submission_qda.csv
+│   └── submission_nb.csv
+│
+├── [src](ca://s?q=Explain_src_folder_structure)/
+│   ├── preprocessing.py
+│   ├── train_logreg.py
+│   ├── train_svm.py
+│   ├── train_lda_qda.py
+│   └── train_naive_bayes.py
+│
+├── [reports](ca://s?q=Explain_reports_folder_structure)/
+│   ├── assignment5_report.pdf
+│   └── figures/
+│       ├── class_distribution.png
+│       ├── confusion_matrix_logreg.png
+│       ├── confusion_matrix_svm.png
+│       └── feature_distributions.png
+│
+└── [requirements.txt](ca://s?q=Explain_requirements_file)
+
+Code
 
 ├── data/
 │   ├── train.csv
