@@ -25,11 +25,11 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
    ── sample_submission.csv
 
 ├── **[notebooks]**
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_logistic_regression.ipynb
-│   ├── 03_svm_model.ipynb
-│   ├── 04_lda_qda.ipynb
-│   └── 05_naive_bayes.ipynb
+  ── 01_exploratory_analysis.ipynb
+  ── 02_logistic_regression.ipynb
+  ── 03_svm_model.ipynb
+  ── 04_lda_qda.ipynb
+  ── 05_naive_bayes.ipynb
 │
 ├── [models](ca://s?q=Explain_models_folder_structure)/
 │   ├── logistic_regression_pipeline.pkl
