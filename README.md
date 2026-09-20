@@ -30,37 +30,36 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
   ── 03_svm_model.ipynb
   ── 04_lda_qda.ipynb
   ── 05_naive_bayes.ipynb
-│
+
 ├── **[models]**
-│   ├── logistic_regression_pipeline.pkl
-│   ├── svm_pipeline.pkl
-│   ├── lda_model.pkl
-│   ├── qda_model.pkl
-│   └── naive_bayes_model.pkl
-│
+  ── logistic_regression_pipeline.pkl
+  ── svm_pipeline.pkl
+  ── qda_model.pkl
+  ── naive_bayes_model.pkl
+
 ├── **[submissions]**
-│   ├── submission_logreg.csv
-│   ├── submission_svm.csv
-│   ├── submission_lda.csv
-│   ├── submission_qda.csv
-│   └── submission_nb.csv
-│
-├── [src](ca://s?q=Explain_src_folder_structure)/
-│   ├── preprocessing.py
-│   ├── train_logreg.py
-│   ├── train_svm.py
-│   ├── train_lda_qda.py
-│   └── train_naive_bayes.py
-│
-├── [reports](ca://s?q=Explain_reports_folder_structure)/
-│   ├── assignment5_report.pdf
-│   └── figures/
-│       ├── class_distribution.png
-│       ├── confusion_matrix_logreg.png
-│       ├── confusion_matrix_svm.png
-│       └── feature_distributions.png
-│
-└── [requirements.txt](ca://s?q=Explain_requirements_file)
+  ── submission_logreg.csv
+  ── submission_svm.csv
+  ── submission_qda.csv
+  ── submission_nb.csv
+
+├── **[src]**
+  ─ preprocessing.py
+  ── train_logreg.py
+  ── train_svm.py
+  ── train_lda_qda.py
+  ── train_naive_bayes.py
+
+├── **[reports]**
+  ── assignment5_report.pdf
+  
+│── **figures**
+    ── class_distribution.png
+    ── confusion_matrix_logreg.png
+    ── confusion_matrix_svm.png
+    ── feature_distributions.png
+
+├── README.md
 
 Code
 
