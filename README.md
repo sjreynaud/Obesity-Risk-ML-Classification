@@ -31,14 +31,14 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
   ── 04_lda_qda.ipynb
   ── 05_naive_bayes.ipynb
 │
-├── [models](ca://s?q=Explain_models_folder_structure)/
+├── **[models]**
 │   ├── logistic_regression_pipeline.pkl
 │   ├── svm_pipeline.pkl
 │   ├── lda_model.pkl
 │   ├── qda_model.pkl
 │   └── naive_bayes_model.pkl
 │
-├── [submissions](ca://s?q=Explain_submissions_folder_structure)/
+├── **[submissions]**
 │   ├── submission_logreg.csv
 │   ├── submission_svm.csv
 │   ├── submission_lda.csv
