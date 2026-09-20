@@ -16,8 +16,7 @@ Each model includes preprocessing, training, evaluation, visualization, and Kagg
 **Code**
 
 **ObesityRisk-ML-Classification**
-│
-├── **[README.md]**
+
 
 ├── **[data]**
    ── train.csv
